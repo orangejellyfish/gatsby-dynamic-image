@@ -1,7 +1,7 @@
 {
   "name": "gatsby-dynamic-image",
   "description": "A React component wrapping gatsby-image",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "github:orangejellyfish/gatsby-dynamic-image",
   "license": "MIT",
   "main": "lib/index.js",
